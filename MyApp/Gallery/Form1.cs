@@ -28,7 +28,7 @@ namespace MyApp
 		{
 
 			var images = new List<string>() { @"C:\Users\Vayderk\source\repos\MyApp\MyApp\Gallery\Photos\a.jpg",
-				@"C:\Users\Vayderk\source\repos\MyApp\MyApp\Gallery\Photos\b.jpg"};
+				@"C:\Userdds\Vayderk\source\repos\MyApp\MyApp\Gallery\Photos\b.jpg"};
 
 
 			if (cont > images.Count - 1) { cont = 0; }
